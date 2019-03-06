@@ -1,7 +1,9 @@
+W momencie rozpoczęcia prac nad poprawką, oznacz ją etykietą "W realizacji"
+
 Podczas pracy kierujcie się priorytetami:
-Najpoierw robimy rzeczy z etykietą "Blokuje wydanie". Oznacza ona że problem nie pozwala na wydanie aplikacji więć trzeba go pilnie rozwiązać. 
-Jeśli nie ma nic co blokuje wydanie, robimy rzeczy oznaczone etykietą "Wysoki priorytet", jezeli skończą się rzeczy oznaczone tą etykietą, robimy "Sredni priorytet".
+Najpierw robimy rzeczy z etykietą "Blokuje wydanie". Oznacza ona że problem nie pozwala na wydanie aplikacji więć trzeba go pilnie rozwiązać. 
+Jeśli nie ma nic co blokuje wydanie, robimy rzeczy oznaczone etykietą "Wysoki priorytet", jezeli skończą się rzeczy oznaczone tą etykietą, robimy "Średni priorytet".
 
 Mamy też etykiety grupujące poszczególne poprawki wg kategorii, np. etykieta "Instalator" grupuje problemy związane z instalacją i deinstalacją programu. Jesli zaczynasz wykonywać prace związane z etykietą "Instalator", wykonaj wszystko z grupy poprawek "Instalator"
 
-Po zakończeniu pracy nad daną poprawką, nadaj jej etykietę "Gotowe do przeglądu". Musimy zachować porządek na GitHub, inaczej będzie on bezużyteczny, w związku z tym, za nieoznaczenie statusu poprawki na "Gotowe do przeglądu" od wynagrodzenia będzie odbierane 10zł za każdą nieoznaczoną etykietą poprawkę.
+Po zakończeniu pracy nad daną poprawką, nadaj jej etykietę "Gotowe do przeglądu". Musimy zachować porządek na GitHub, inaczej będzie on bezużyteczny, w związku z tym, za nieoznaczenie statusu poprawki na "W realizacji" lub "Gotowe do przeglądu" od wynagrodzenia będzie odbierane 10zł za każdą nieoznaczoną etykietą poprawkę.
